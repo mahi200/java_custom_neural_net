@@ -1,0 +1,12 @@
+neuralnet\NeuralNetwork.class
+mnist\AIFH.class
+mnist\FileUtil.class
+mnist\AIFHError.class
+neuralnet\TrainingData.class
+mnist\MNIST.class
+mnist\ArrayUtil.class
+neuralnet\Neuron.class
+mnist\MNISTReader.class
+neuralnet\MahiNeurlNetwork.class
+neuralnet\Layer.class
+neuralnet\StatUtil.class
